@@ -3,6 +3,7 @@
 }
 
 #lineChart {
-  height: 200px;
-  aspect-ratio: 0.6;
+  max-height: 300px;
+  max-width: 600px;
+  aspect-ratio: 2;
 }
